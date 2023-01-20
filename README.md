@@ -1,8 +1,7 @@
 # About Me
 - Hi, I’m @cartwatson
-- I’m interested in web and software dev
-- I’m currently studying Computer Science 
-- I’m looking to collaborate on ...
+- I’m interested in software dev, specifically in the field of MR/VR/AR
+- I’m currently studying Computer Science at Utah State University
 
 # Stats
 ![cartwatson's GitHub stats](https://github-readme-stats.vercel.app/api?username=cartwatson&show_icons=true&theme=tokyonight&bg_color=00000000)  
