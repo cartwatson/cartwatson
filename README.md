@@ -5,7 +5,7 @@
 - I’m looking to collaborate on ...
 
 # Stats
-![cartwatson's GitHub stats](https://github-readme-stats.vercel.app/api?username=cartwatson&show_icons=true&theme=synthwave&bg_color=00000000)  
+![cartwatson's GitHub stats](https://github-readme-stats.vercel.app/api?username=cartwatson&show_icons=true&theme=tokyonight&bg_color=00000000)  
 
 # Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cartwatson/)
