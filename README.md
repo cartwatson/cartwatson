@@ -4,7 +4,7 @@
 - I’m currently studying Computer Science at Utah State University
 
 # Stats
-![cartwatson's GitHub stats](https://github-readme-stats.vercel.app/api?username=cartwatson&show_icons=true&theme=tokyonight&bg_color=00000000)  
+![cartwatson's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cartwatson&show_icons=true&theme=tokyonight&bg_color=00000000)  
 
 # Languages
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
