@@ -14,7 +14,7 @@
 # Languages
 ![c#](https://img.shields.io/badge/CSharp-37008c?style=for-the-badge&logo=CSharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=oracle&logoColor=white)
-![python](https://img.shields.io/badge/Python-f7cc40?style=for-the-badge&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/Python-386da1?style=for-the-badge&logo=python&logoColor=white)
 ![bash](https://img.shields.io/badge/GNUBash-47B353?style=for-the-badge&logo=GNUBash&logoColor=white)
 
 # Contact
