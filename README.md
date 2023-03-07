@@ -1,5 +1,5 @@
 # About Me
-- I'm currently working on my portfolio website, take a look [here](https://www.cartwatson.com) or look at the source code [here](https://github.com/cartwatson/cartwatson.github.io)
+- I'm currently working on my portfolio website, take a look at the work in progress [here](https://www.cartwatson.com) or look at the source code [here](https://github.com/cartwatson/cartwatson.github.io)
 - I will graduate in December 2023 with a BS in Computer Science from [Utah State University](https://www.usu.edu/)
 - I work on AR/MR at the [Space Dynamics Lab](https://www.sdl.usu.edu/) as a Mixed Reality Software Engineering Student
 
