@@ -4,8 +4,8 @@
 - I work on AR/MR at the [Space Dynamics Lab](https://www.sdl.usu.edu/) as a Mixed Reality Software Engineering Assistant
 
 # Featured Projects
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=cartwatson&repo=cartwatson.github.io)](https://github.com/cartwatson/cartwatson.github.io)
-[![Dan's Auto Barn](https://github-readme-stats.vercel.app/api/pin/?username=CS3450-Group9&repo=CS3450-Group9)](https://github.com/CS3450-Group9/CS3450-Group9)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=cartwatson&repo=cartwatson.github.io&theme=tokyonight&bg_color=00000000)](https://github.com/cartwatson/cartwatson.github.io)
+[![Dan's Auto Barn](https://github-readme-stats.vercel.app/api/pin/?username=CS3450-Group9&repo=CS3450-Group9&theme=tokyonight&bg_color=00000000)](https://github.com/CS3450-Group9/CS3450-Group9)
 
 
 # Stats
