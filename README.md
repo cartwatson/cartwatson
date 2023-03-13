@@ -1,11 +1,13 @@
 # About Me
 - I'm currently working on my portfolio website, take a look at the work in progress [here](https://www.cartwatson.com) or look at the source code [here](https://github.com/cartwatson/cartwatson.github.io)
+<!-- - Also working on a dating app that integrates spotify data to create matches with [@iron7-1](https://github.com/Irion7-1), repo is in featured projects  -->
 - I will graduate in December 2023 with a BS in Computer Science from [Utah State University](https://www.usu.edu/)
 - I work on AR/MR at the [Space Dynamics Lab](https://www.sdl.usu.edu/) as a Mixed Reality Software Engineering Assistant
 
 # Featured Projects
 [![Portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cartwatson&repo=cartwatson.github.io&theme=tokyonight&bg_color=00000000)](https://github.com/cartwatson/cartwatson.github.io)
 [![Dan's Auto Barn](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CS3450-Group9&repo=CS3450-Group9&theme=tokyonight&bg_color=00000000)](https://github.com/CS3450-Group9/CS3450-Group9)
+<!-- [![Spotify Dating App](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Iron7-1&repo=dating_app&theme=tokyonight&bg_color=00000000)](https://github.com/Irion7-1/dating_app) -->
 
 
 # Stats
