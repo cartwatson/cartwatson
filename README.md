@@ -7,6 +7,7 @@
 # Featured Projects
 [![Portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cartwatson&repo=cartwatson.github.io&theme=tokyonight&bg_color=00000000)](https://github.com/cartwatson/cartwatson.github.io)
 [![Dan's Auto Barn](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CS3450-Group9&repo=CS3450-Group9&theme=tokyonight&bg_color=00000000)](https://github.com/CS3450-Group9/CS3450-Group9)
+[![HackUSU 2023](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Utah-State-University-Cybersecurity&repo=HackUSU&theme=tokyonight&bg_color=00000000)](https://github.com/Utah-State-University-Cybersecurity/hackUSU/)
 <!-- [![Spotify Dating App](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Iron7-1&repo=dating_app&theme=tokyonight&bg_color=00000000)](https://github.com/Irion7-1/dating_app) -->
 
 
