@@ -8,7 +8,7 @@
 [![Dan's Auto Barn](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CS3450-Group9&repo=Dans-AutoBarn&theme=tokyonight&bg_color=00000000)](https://github.com/CS3450-Group9/Dans-AutoBarn)
 [![Portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cartwatson&repo=cartwatson.github.io&theme=tokyonight&bg_color=00000000)](https://github.com/cartwatson/cartwatson.github.io)
 [![HackUSU 2023](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Utah-State-University-Cybersecurity&repo=HackUSU-CYOA&theme=tokyonight&bg_color=00000000)](https://github.com/Utah-State-University-Cybersecurity/hackUSU-CYOA/)
-<!--[![CourseWork](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cartwatson&repo=course-work&theme=tokyonight&bg_color=00000000)](https://github.com/cartwatson/course-work)-->
+[![CourseWork](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cartwatson&repo=course-work&theme=tokyonight&bg_color=00000000)](https://github.com/cartwatson/course-work)
 <!-- [![Spotify Dating App](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Iron7-1&repo=dating_app&theme=tokyonight&bg_color=00000000)](https://github.com/Irion7-1/dating_app) -->
 
 
