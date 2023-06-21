@@ -12,7 +12,7 @@ alias ebr="cat ~/.bash_aliases"
 # --git
 alias gs="git status"
 alias ga="git add"
-alias gl="git log"
+alias gl="git log --oneline --graph"
 alias gc="git commit -m"
 alias gp="git push"
 function gpsu() { git push --set-upstream origin $(git branch --show-current); }
