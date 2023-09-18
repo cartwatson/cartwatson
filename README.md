@@ -1,8 +1,8 @@
 # About Me
 - I'm currently working on my portfolio website, take a look at the work in progress [here](https://www.cartwatson.com) or look at the source code [here](https://github.com/cartwatson/cartwatson.github.io)
 - I will graduate in December 2023 with a BS in Computer Science from [Utah State University](https://www.usu.edu/)
-- I'm currenlty working as a Software Engineering Assistant the [Space Dynamics Lab](https://www.sdl.usu.edu/)
-- If you'd like to get in touch reach out to me on [linkedin](https://www.linkedin.com/in/cartwatson)
+- I'm currenlty working as a Software Engineering Assistant the [Space Dynamics Laboratory](https://www.sdl.usu.edu/)
+- If you'd like to get in touch reach out to me on [LinkedIn](https://www.linkedin.com/in/cartwatson)
 - Take a look at some of my other projects below
 
 <!--
