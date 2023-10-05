@@ -17,7 +17,7 @@ alias gc="git commit -m"
 alias gp="git push"
 alias gco="git checkout"
 alias gcod="git checkout dev"
-alias gsll="clear; ell; ll; egs; gs;"
+alias gsll="clear; ell; ll; egs; git status;"
 function gcp() { git commit -m "$@" && git push ;}
 function gpsu() { git push --set-upstream origin $(git branch --show-current); }
 # --override builtins
