@@ -22,6 +22,8 @@ function gcp() { git commit -m "$@" && git push ;}
 function gpsu() { git push --set-upstream origin $(git branch --show-current); }
 # --override builtins
 function cd() { builtin cd "$@" && ls -al; }
-# --windows
+# --shortcuts
 alias e="explorer ."
 alias c="code ."
+# --markdown
+pandoc_md2pdf() { pandoc -V geometry:margin=0.75in --pdf-engine=xelatex -s -o "$1.pdf" "$1.md"; }
