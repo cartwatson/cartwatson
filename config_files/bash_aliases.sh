@@ -26,4 +26,4 @@ function cd() { builtin cd "$@" && ls -al; }
 alias e="explorer ."
 alias c="code ."
 # --markdown
-pandoc_md2pdf() { pandoc -V geometry:margin=0.75in --pdf-engine=xelatex -s -o "$1.pdf" "$1.md"; }
+# pandoc_md2pdf() { pandoc -V geometry:margin=0.75in --pdf-engine=xelatex -s -o "$1.pdf" "$1.md"; }
