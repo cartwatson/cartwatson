@@ -15,7 +15,6 @@ def extract_info(file_path):
     todos = set()
     for line in lines:
         if "TODO:" in line:
-            # TODO: sanitize line
             temp = line.split("TODO: ")
             if len(temp) > 1: todos.add(temp[1])
             else: todos.add(line)
@@ -79,10 +78,10 @@ def generate_todo_readme(file_dir="./", readme="./README.md"):
     # read over files for TODO
     file_todos = process_files(file_dir)
 
-    # Identify todos that are in readme but no longer in files
+    # identify todos that are in readme but no longer in files
     readme_todos_done.update(readme_todos - file_todos)
 
-    # Update the sets by removing the completed todos from readme_todos and removing any duplicates from file_todos
+    # update the sets by removing the completed todos from readme_todos and removing any duplicates from file_todos
     readme_todos -= readme_todos_done
     file_todos -= readme_todos
 
