@@ -14,9 +14,10 @@ def extract_info(file_path):
         lines = file.readlines()
 
     todos = set()
+    todo_str = "TODO" + ": " # this is a hack so it doesn't grab the lines that use this comment
     for line in lines:
-        if "TODO:" in line:
-            temp = line.split("TODO: ")
+        if todo_str in line:
+            temp = line.split(todo_str)
             # TODO: RESEARCH: see if theres a way to find if a line is a comment
             if len(temp) > 1:
                 todos.add(temp[1])
