@@ -91,3 +91,7 @@ fi
 
 # case insensitive tab completion
 bind -s 'set completion-ignore-case on'
+
+# set default editor to vim
+export EDITOR='vi'
+export VISUAL='vi' 
