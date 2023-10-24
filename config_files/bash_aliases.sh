@@ -2,8 +2,8 @@
 # --bash
 alias egs="echo -e '\n---- Git Status ----'; git status;"
 alias ell="echo -e '---- ll -al ----';"
-alias cds="clear; ell; cd <School Dir>"
-alias cdm="clear; ell; cd <Personal Projects Dir>"
+alias cds="clear; cd <School Dir>"
+alias cdm="clear; cd <Personal Projects Dir>"
 alias cdd="clear; cd <Other Working Location>"
 alias ll="ls -Al"
 alias vbr="vim ~/.bash_aliases"
