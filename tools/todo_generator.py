@@ -9,6 +9,21 @@ def print_todo_set(set, completed=False):
     else: return '- [ ] ' + '- [ ] '.join(set)
 
 
+def sanitize_line(line: str, split_str: str) -> str:
+    temp = line.split(split_str)
+    # TODO: RESEARCH: see if theres a way to find if a line is a comment
+    if len(temp) > 1:
+        result = temp[1]
+    else:
+        result = line
+
+    # replace any < or > with escaped characters for md rendering
+    result.replace('<', '\<')
+    result.replace('>', '\>')
+    
+    return result
+
+
 def extract_info(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
@@ -17,12 +32,7 @@ def extract_info(file_path):
     todo_str = "TODO" + ": " # this is a hack so it doesn't grab the lines that use this comment
     for line in lines:
         if todo_str in line:
-            temp = line.split(todo_str)
-            # TODO: RESEARCH: see if theres a way to find if a line is a comment
-            if len(temp) > 1:
-                todos.add(temp[1])
-            else:
-                todos.add(line)
+            todos.add(sanitize_line(line, todo_str))
 
     return todos
 
@@ -33,6 +43,7 @@ def process_files(file_dir, file_todos=None):
 
     # move through all child dirs and files
     for item in os.listdir(file_dir):
+        # TODO: EXPERIMENT: find a good way to incorperate meta todos; maybe using file location
         # ignore hidden files and directories
         if item.startswith('.'): continue
 
@@ -87,6 +98,7 @@ def generate_todo_readme(file_dir="./", readme="./README.md"):
     file_todos = process_files(file_dir)
 
     # identify todos that are in readme but no longer in files
+    # TODO: IMPLEMENT: fuzzy matching, minor changes shouldn't create a new todo but should replace an old one
     readme_todos_done.update(readme_todos - file_todos)
 
     # update the sets by removing the completed todos from readme_todos and removing any duplicates from file_todos
