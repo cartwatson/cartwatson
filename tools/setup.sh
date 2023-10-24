@@ -1,3 +1,6 @@
+# hush login
+touch /home/$(whoami)/.hushlogin
+
 # copy tools
 cp ./todo_generator.py ~/.todo_gen.py
 
