@@ -29,4 +29,4 @@ alias c="code ."
 # --markdown
 # pandoc_md2pdf() { pandoc -V geometry:margin=0.75in --pdf-engine=xelatex -s -o "$1.pdf" "$1.md"; }
 # --custom scripts
-function todo_gen() {python3 ~/.todo_gen.py "$@";}
+function todo_gen() { python3 ~/.todo_gen.py "$@"; }
