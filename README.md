@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Carter Watson</h1>
+<h1 align="center">Carter Watson</h1>
 
 <!-- icons -->
 <p align="center">
