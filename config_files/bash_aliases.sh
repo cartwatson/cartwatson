@@ -2,6 +2,7 @@
 # --bash
 alias egs="echo -e '\n---- Git Status ----'; git status;"
 alias ell="echo -e '---- ll -al ----';"
+alias cdh="clear; cd ~"
 alias cds="clear; cd <School Dir>"
 alias cdm="clear; cd <Personal Projects Dir>"
 alias cdd="clear; cd <Other Working Location>"
