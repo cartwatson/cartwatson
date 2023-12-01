@@ -11,7 +11,7 @@ alias vbr="vim ~/.bash_aliases"
 alias sbr="source ~/.bashrc"
 alias ebr="cat ~/.bash_aliases"
 # --git
-alias gs="git status"
+alias gs="git status -sb"
 alias ga="git add"
 alias gl="git log --oneline --graph"
 alias gc="git commit -m"
