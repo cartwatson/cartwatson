@@ -1,7 +1,7 @@
 # aliases
 
 # --override builtins
-function cd() { builtin cd "$@" && ls -Al }
+function cd() { builtin cd "$@" && ls -Al; }
 
 # --bash
 alias egs="echo -e '\n---- Git Status ----'; git status"
@@ -25,8 +25,8 @@ alias gp="git push"
 alias gco="git checkout"
 alias gcod="git checkout dev"
 alias gsll="clear; ell; ll; egs; git status"
-function gcp() { git commit -m "$@" && git push }
-function gpsu() { git push --set-upstream origin $(git branch --show-current) }
+function gcp() { git commit -m "$@" && git push; }
+function gpsu() { git push --set-upstream origin $(git branch --show-current); }
 
 # git-crypt
 # alias gcu="git-crypt unlock .git/git-crypt/keys/default"
@@ -36,7 +36,7 @@ alias e="explorer ."
 alias c="code ."
 
 # --markdown
-# pandoc_md2pdf() { pandoc -V geometry:margin=0.75in --pdf-engine=xelatex -s -o "$1.pdf" "$1.md" }
+# pandoc_md2pdf() { pandoc -V geometry:margin=0.75in --pdf-engine=xelatex -s -o "$1.pdf" "$1.md"; }
 
 # --custom scripts
-# function todo_gen() { python3 ~/.todo_gen.py "$@" }
+# function todo_gen() { python3 ~/.todo_gen.py "$@"; }
