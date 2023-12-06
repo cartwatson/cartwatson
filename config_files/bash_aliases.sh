@@ -4,8 +4,8 @@
 function cd() { builtin cd "$@" && ls -Al; }
 
 # --bash
-alias egs="echo -e '\n---- Git Status ----'; git status;"
-alias ell="echo -e '---- ll -al ----';"
+alias egs="echo -e '\n---- Git Status ----'; git status"
+alias ell="echo -e '---- ll -al ----'"
 alias cdh="clear; cd ~"
 alias cds="clear; cd <School Dir>"
 alias cdm="clear; cd <Personal Projects Dir>"
@@ -24,12 +24,12 @@ alias gd="git diff"
 alias gp="git push"
 alias gco="git checkout"
 alias gcod="git checkout dev"
-alias gsll="clear; ell; ll; egs; git status;"
-function gcp() { git commit -m "$@" && git push ;}
+alias gsll="clear; ell; ll; egs; git status"
+function gcp() { git commit -m "$@" && git push; }
 function gpsu() { git push --set-upstream origin $(git branch --show-current); }
 
 # git-crypt
-alias gcu="git-crypt unlock .git/git-crypt/keys/default"
+# alias gcu="git-crypt unlock .git/git-crypt/keys/default"
 
 # --windows
 alias e="explorer ."
