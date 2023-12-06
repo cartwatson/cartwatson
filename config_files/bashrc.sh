@@ -44,10 +44,15 @@ if [ -n "$force_color_prompt" ]; then
     fi
 fi
 
+# attempt to source git-prompt.sh if it exists
+if [ -f /usr/share/git-core/contrib/completion/git-prompt.sh ]; then
+    source /usr/share/git-core/contrib/completion/git-prompt.sh
+fi
+
 # create prompt line, include user@machine:working/dir/full/path (git branch) $
-if [[ -n $__git_ps1 && "$color_prompt" = yes ]]; then
+if [[ -n "$(__git_ps1 " (%s)")" && "$color_prompt" = yes ]]; then
     PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[01;31m\]$(__git_ps1 " (%s)")\[\033[00m\]\n\$ '
-elif [[ -n $__git_ps1 ]]; then
+elif [[ -n "$(__git_ps1 "%s")" ]]; then
     PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w$(__git_ps1 " (%s)")\n\$ '
 else
     PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\n\$ '
