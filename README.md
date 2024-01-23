@@ -9,11 +9,12 @@
 
 ## About Me
 
-- Graduated with my BS in Computer Science from [Utah State University](https://www.usu.edu/) in December 2023
-- Currently on the hunt for a new Software Engineer role in the Orange County/LA area
-<!-- - Currently honing my skills as a Software Engineering Assistant at the [Space Dynamics Laboratory](https://www.sdl.usu.edu/) -->
-- Recently unveiled my [portfolio website](https://cartwatson.com); feel free to explore the [source code](https://github.com/cartwatson/cartwatson.github.io)
-- Outside coding, I love to cycle, attend live music, and connect with the people around me
-- Discover a spectrum of my work in the featured repositories below!
+<!-- - 🏢 Currently honing my skills as a Software Engineering at the []() -->
+- 🎓 Graduated with my BS in Computer Science from [Utah State University](https://www.usu.edu/) in December 2023
+- 🔍 Currently on the hunt for a new Software Engineer role in the Orange County/LA area
+- 🌐 Recently unveiled my [portfolio website](https://cartwatson.com); feel free to explore the [source code](https://github.com/cartwatson/cartwatson.github.io)
+- 🖥️ My most recent ongoing project is setting up a home server with [Proxmox](https://proxmox.com)
+- 🚲 Outside coding, I love to cycle, attend live music, and connect with the people around me
+- 👀 Discover a spectrum of my personal and school work in the featured repositories below!
 
 *Have something you want to collaborate on? [Reach Out!](https://www.linkedin.com/in/cartwatson)*
