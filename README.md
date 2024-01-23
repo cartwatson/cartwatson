@@ -9,9 +9,9 @@
 
 ## About Me
 
-- Set to complete my BS in Computer Science from [Utah State University](https://www.usu.edu/) this December 2023
-- Currently honing my skills as a Software Engineering Assistant at the [Space Dynamics Laboratory](https://www.sdl.usu.edu/)
-- On the lookout for a new Software Engineer role in the Southern Orange County (Huntington Beach) area
+- Graduated with my BS in Computer Science from [Utah State University](https://www.usu.edu/) in December 2023
+- Currently on the hunt for a new Software Engineer role in the Orange County/LA area
+<!-- - Currently honing my skills as a Software Engineering Assistant at the [Space Dynamics Laboratory](https://www.sdl.usu.edu/) -->
 - Recently unveiled my [portfolio website](https://cartwatson.com); feel free to explore the [source code](https://github.com/cartwatson/cartwatson.github.io)
 - Outside coding, I love to cycle, attend live music, and connect with the people around me
 - Discover a spectrum of my work in the featured repositories below!
