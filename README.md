@@ -1,7 +1,7 @@
-<h1 style="text-align: center;">Carter Watson</h1>
+<h1>Carter Watson</h1>
 
 <!-- icons -->
-<p style="text-align: center;">
+<p>
     <a href="https://github.com/cartwatson"><img src="https://img.shields.io/badge/github-cartwatson-24292e?style=for-the-badge&amp;logo=github" alt="Carter Watson on Github"></a>
     <a href="https://cartwatson.com"><img src="https://img.shields.io/badge/Portfolio-cartwatson.com-24292e?style=for-the-badge&amp;logo=github-pages&amp;logoColor=white" alt="Carter Watson's Portfolio Site"></a>
     <a href="https://linkedin.com/in/cartwatson"><img src="https://img.shields.io/badge/linkedin-cartwatson-24292e?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Carter Watson's LinkedIn Profile"></a>
