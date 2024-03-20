@@ -2,9 +2,9 @@
 
 <!-- icons -->
 <p>
-    <a href="https://github.com/cartwatson"><img src="https://img.shields.io/badge/github-cartwatson-24292e?style=for-the-badge&amp;logo=github" alt="Carter Watson on Github"></a>
-    <a href="https://cartwatson.com"><img src="https://img.shields.io/badge/Portfolio-cartwatson.com-24292e?style=for-the-badge&amp;logo=github-pages&amp;logoColor=white" alt="Carter Watson's Portfolio Site"></a>
-    <a href="https://linkedin.com/in/cartwatson"><img src="https://img.shields.io/badge/linkedin-cartwatson-24292e?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Carter Watson's LinkedIn Profile"></a>
+    <a href="https://github.com/cartwatson" target="_blank"><img src="https://img.shields.io/badge/github-cartwatson-24292e?style=for-the-badge&amp;logo=github" alt="Carter Watson on Github"></a>
+    <a href="https://cartwatson.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-cartwatson.com-24292e?style=for-the-badge&amp;logo=github-pages&amp;logoColor=white" alt="Carter Watson's Portfolio Site"></a>
+    <a href="https://linkedin.com/in/cartwatson" target="_blank"><img src="https://img.shields.io/badge/linkedin-cartwatson-24292e?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Carter Watson's LinkedIn Profile"></a>
 </p>
 
 ## About Me
