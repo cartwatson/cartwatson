@@ -1,4 +1,4 @@
-<h1>Carter Watson</h1>
+# Carter Watson
 
 <!-- icons -->
 <p>
@@ -9,13 +9,12 @@
 
 ## About Me
 
-<!-- - 🏢 Currently honing my skills as a Software Engineer at []() -->
-- 🔍 Currently on the hunt for a new Software Engineer role in the Orange County/LA area
+- 🏢 Currently working at [Anduril](https://anduril.com) as a Mission Success Specialist
 - 🌐 Recently unveiled my [portfolio website](https://cartwatson.com); feel free to explore the [source code](https://github.com/cartwatson/cartwatson.github.io)
-- 🖥️ Currently working on [Nexus](https://github.com/cartwatson/Nexus), a ground software simulation
-- 🎓 Graduated with my BS in Computer Science from [Utah State University](https://www.usu.edu/)
-- 🚲 Outside coding, I love to cycle, attend live music, and connect with the people around me
-- 👀 Discover a spectrum of my personal and school work in the featured repositories below!
+<!-- - 🖥️ Currently working on [Nexus](https://github.com/cartwatson/Nexus), a ground software simulation -->
+- 🎓 Graduated with my BS in Computer Science from [Utah State University](https://www.usu.edu/) in '23
+- 🚲 Outside coding, I love to cycle, go to concerts, and connect with the people around me
+<!-- - 👀 Discover a spectrum of my personal and school work in the featured repositories below! -->
 
 *Have something you want to collaborate on? [Reach Out!](https://www.linkedin.com/in/cartwatson)*
 
