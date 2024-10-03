@@ -9,9 +9,9 @@
 
 ## About Me
 
+<!-- - 🖥️ Currently working on [Nexus](https://github.com/cartwatson/Nexus), a ground software simulation -->
 - 🏢 Currently working at [Anduril](https://anduril.com) as a Mission Success Specialist
 - 🌐 Recently unveiled my [portfolio website](https://cartwatson.com); feel free to explore the [source code](https://github.com/cartwatson/cartwatson.github.io)
-<!-- - 🖥️ Currently working on [Nexus](https://github.com/cartwatson/Nexus), a ground software simulation -->
 - 🎓 Graduated with my BS in Computer Science from [Utah State University](https://www.usu.edu/) in '23
 - 🚲 Outside coding, I love to cycle, go to concerts, and connect with the people around me
 <!-- - 👀 Discover a spectrum of my personal and school work in the featured repositories below! -->
