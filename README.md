@@ -1,1 +1,1 @@
-utah state aggie, cyclist, programmer, nix enthusiast
+utah state aggie, cyclist, nix enthusiast
